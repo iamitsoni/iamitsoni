@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Express, Nodejs, MongoDB**
 
-- 👨‍💻 This is my personal website. [iamitsoni.com](iamitsoni.com)
+- 👨‍💻 This is my personal website [iamitsoni.com](iamitsoni.com)
 
 - 💬 Ask me about **React, Next**
 
